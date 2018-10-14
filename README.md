@@ -7,6 +7,11 @@ All material is licensed under CC-BY-SA 4.0 (unless specified otherwize).
 
 Files:
 
+## <a href="fortnite-coding_gouter.pdf">fortnite-coding_gouter.pdf</a>
+<p>Goal: Introduce issues like privacy, security issues related to backdoors, online traces using popular fortnite game.</p>
+
+<p>Type: Support for a presentation.</p>
+
 ## <a href="Post_it-War-GIMP_H4K.pdf">Post_it-War-GIMP_H4K.pdf</a>
 <p>Goal: Explain how to use the GIMP to create your own post-it art.</p>
 
